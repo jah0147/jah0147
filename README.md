@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacob Howard, Auburn U Computer Engineering
 - 👀 I’m interested in software and hardware development.
-- 🌱 I’m currently learning digital design and embeded design for hardware
+- 🌱 I’m currently learning about Hardware AI development and Training
 - 📫 How to reach me: jacob.howard@auburn.edu
-- ⌨ The coding languages I am proficient in are Java, C, C++, Matlab, VHDL, and Verilog. I will be learning Python in the future.
+- ⌨ The coding languages I am proficient in are Java, C, C++, Matlab, VHDL, Verilog, and Python.
